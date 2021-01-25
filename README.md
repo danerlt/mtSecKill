@@ -50,7 +50,3 @@
  - 新增eid与fp参数 对于无法自动获取到的用户 请手动填入 默认空 会自动获取
 
 token 参数可微信扫码免费登录 https://sre24.com 可以在「设置」页面得到。
-
-## 打赏
-要是客官抢到了茅台，心情好，请我喝一杯咖啡好不好:)  
-![收款二维码](https://github.com/zqjzqj/mtSecKill/blob/master/zqijun.png)
